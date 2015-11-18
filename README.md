@@ -12,7 +12,7 @@ La aplicación está hecha con Sencha Touch 1.1 únicamente compatible con naveg
 
 ##English
 
-[Test CuentaAmarracos](http://cuenta.yonkiblog.com)
+[How to test CuentaAmarracos](http://cuenta.yonkiblog.com)
 
 CuentaAmarracos is a web application made to count amarracos, piedras or chinos in a mus game.
 
